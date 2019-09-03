@@ -8,3 +8,5 @@ Get some friends to try out your game. If your game is too easy, you can make it
 
 
 --- /challenge ---
+
+![progress bar](images/m1-2.png)
